@@ -3730,6 +3730,8 @@ font-weight: 300;
   .container {
     padding: 16px;
     width: 50%;
+    margin: none;
+    
 }
 
 
@@ -3760,3 +3762,32 @@ font-weight: 300;
 .maketeam{
     width: 30%;
 }
+
+input[type=text], input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  .teamname{
+    color:orange;
+  }
+
+  .pilotfirst{
+    color: orange;
+  }
+
+  .pilotsecond{
+    color: orange;
+  }
+  
+  .money{
+    color: orange;
+  }
+
+  .data{
+    color: orange;
+  }
